@@ -1,14 +1,12 @@
 .jumbotron {
+  background-color: #bed4f8;
+}
+
+#galery {
+  background-color: #bed4f8;
+  font-size: 11px;
+}
+
+section {
   padding-top: 6rem;
-  padding-bottom: 2rem;
-  background-color: #e2edff;
 }
-
-#projects {
-  background-color: #e2edff;
-}
-
-.closing {background-color: blue;#e2edff
-}
-
-section {padding-top: 5rem;}
