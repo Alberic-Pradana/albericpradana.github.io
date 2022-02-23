@@ -1,5 +1,9 @@
 .jumbotron {
   background-color: #bed4f8;
+  background-image: url(img/Par-4.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 0 -100px;
 }
 
 #galery {
@@ -11,5 +15,5 @@
 }
 
 section {
-  padding-top: 6rem;
+  padding-top: 8rem;
 }
