@@ -1,15 +1,16 @@
 .jumbotron {
   background-color: #bed4f8;
   background-image: url(img/Par-4.jpg);
-  background-attachment: fixed;
   background-size: cover;
-  background-position: 0 -100px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 #galery {
   background-color: #bed4f8;
   font-size: 11px;
 }
+
 #Contact {
   background-color: #bed4f8;
 }
